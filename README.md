@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="haskell logo"  />
@@ -24,11 +24,7 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
