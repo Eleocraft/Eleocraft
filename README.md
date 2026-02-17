@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
 </div>
 
 ###
@@ -31,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 </div>
 
 ###
