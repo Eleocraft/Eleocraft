@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="haskell logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
@@ -40,7 +40,6 @@
 
 ![](https://raw.githubusercontent.com/Eleocraft/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Eleocraft/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://raw.githubusercontent.com/Eleocraft/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Eleocraft/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
